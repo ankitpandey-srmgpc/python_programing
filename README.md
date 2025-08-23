@@ -1,2 +1,2 @@
-# python_programing
+# Learn Python
 Practice Questions To Learn Python
